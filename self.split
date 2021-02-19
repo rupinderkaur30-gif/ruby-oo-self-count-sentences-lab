@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /home/rupinder/ruby-oo-self-count-sentences-lab/lib/count_sentences.rb:32 String#count_sentences:
+
+    [1;34m27[0m:     [32mend[0m
+    [1;34m28[0m: 
+    [1;34m29[0m: 
+    [1;34m30[0m:   [32mend[0m
+    [1;34m31[0m: 
+ => [1;34m32[0m:   [32mdef[0m [1;34mcount_sentences[0m
+    [1;34m33[0m:    
+    [1;34m34[0m: 
+    [1;34m35[0m: 
+    [1;34m36[0m:   [32mend[0m
+    [1;34m37[0m: [32mend[0m
+
